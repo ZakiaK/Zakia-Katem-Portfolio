@@ -1,2 +1,2 @@
 # Zakia-Katem-Portfolio
-Portfolio
+Passionné de développement web et de design, je suis un créatrice enthousiaste qui aime donner vie à des idées à travers le code et la conception. Mon portfolio est un reflet de mon engagement envers l'innovation. Explorez mes projets pour découvrir mon expertise dans la création d'interfaces utilisateur élégantes, d'applications web interactives et de solutions technologiques novatrices. Ouverte aux collaborations et aux opportunités, je suis constamment à la recherche de nouveaux défis pour élargir mes compétences et contribuer à des projets stimulants.
